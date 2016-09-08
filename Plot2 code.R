@@ -5,7 +5,7 @@
 ###require package 
 library(downloader)
 ###Setting directory
-setwd("C:/Users/toppa/Dropbox/01 ACEDEMIC/00 Data Science/Course 4 EDA/Project")
+setwd("C:/Users/toppa/Dropbox/01 ACADEMIC/00 Data Science/Course 4 EDA/Project")
 
 
 ###Download Data

@@ -5,7 +5,7 @@
 
 library(downloader)
 
-setwd("C:/Users/toppa/Dropbox/01 ACEDEMIC/00 Data Science/Course 4 EDA/Project")
+setwd("C:/Users/toppa/Dropbox/01 ACADEMIC/00 Data Science/Course 4 EDA/Project")
 
 ###Download Data
 dataset_url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
